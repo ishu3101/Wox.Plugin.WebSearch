@@ -1,0 +1,27 @@
+{
+  "WebSearches": [
+    {
+      "Title": "Google",
+      "ActionKeyword": "g",
+      "IconPath": "Images\\websearch\\google.png",
+      "Url": "https://www.google.com/search?q={q}",
+      "Enabled": true
+    },
+    {
+      "Title": "Wikipedia",
+      "ActionKeyword": "wiki",
+      "IconPath": "Images\\websearch\\wiki.png",
+      "Url": "http://en.wikipedia.org/wiki/{q}",
+      "Enabled": true
+    },
+    {
+      "Title": "FindIcon",
+      "ActionKeyword": "findicon",
+      "IconPath": "Images\\websearch\\pictures.png",
+      "Url": "http://findicons.com/search/{q}",
+      "Enabled": true
+    }
+  ],
+  "EnableWebSearchSuggestion": false,
+  "WebSearchSuggestionSource": "Google"
+}
