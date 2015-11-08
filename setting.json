@@ -55,6 +55,20 @@
       "IconPath": "Images\\websearch\\duckduckgo.png",
       "Url": "https://duckduckgo.com/?q={q}",
       "Enabled": true
+    },    
+    {
+      "Title": "github",
+      "ActionWord": "github",
+      "IconPath": "Images\\websearch\\github.png",
+      "Url": "https://github.com/search?q={q}",
+      "Enabled": true
+    },
+    {
+      "Title": "github gist",
+      "ActionWord": "gist",
+      "IconPath": "Images\\websearch\\gist.png",
+      "Url": "https://gist.github.com/search?q={q}",
+      "Enabled": true
     }    
   ],
   "EnableWebSearchSuggestion": false,
