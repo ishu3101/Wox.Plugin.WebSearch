@@ -2,23 +2,37 @@
   "WebSearches": [
     {
       "Title": "Google",
-      "ActionKeyword": "g",
+      "ActionWord": "g",
       "IconPath": "Images\\websearch\\google.png",
       "Url": "https://www.google.com/search?q={q}",
       "Enabled": true
     },
     {
       "Title": "Wikipedia",
-      "ActionKeyword": "wiki",
+      "ActionWord": "wiki",
       "IconPath": "Images\\websearch\\wiki.png",
       "Url": "http://en.wikipedia.org/wiki/{q}",
       "Enabled": true
     },
     {
       "Title": "FindIcon",
-      "ActionKeyword": "findicon",
+      "ActionWord": "findicon",
       "IconPath": "Images\\websearch\\pictures.png",
       "Url": "http://findicons.com/search/{q}",
+      "Enabled": true
+    },
+    {
+      "Title": "facebook",
+      "ActionWord": "facebook",
+      "IconPath": "Images\\websearch\\facebook.png",
+      "Url": "http://www.facebook.com/search/?q={q}",
+      "Enabled": true
+    },
+    {
+      "Title": "twitter",
+      "ActionWord": "twitter",
+      "IconPath": "Images\\websearch\\twitter.png",
+      "Url": "http://twitter.com/search?q={q}",
       "Enabled": true
     }
   ],
