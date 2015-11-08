@@ -85,6 +85,6 @@
       "Enabled": true
     }
   ],
-  "EnableWebSearchSuggestion": false,
+  "EnableWebSearchSuggestion": true,
   "WebSearchSuggestionSource": "Google"
 }
