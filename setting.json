@@ -69,7 +69,14 @@
       "IconPath": "Images\\websearch\\gist.png",
       "Url": "https://gist.github.com/search?q={q}",
       "Enabled": true
-    }    
+    },
+    {
+      "Title": "gmail",
+      "ActionWord": "gmail",
+      "IconPath": "Images\\websearch\\gmail.png",
+      "Url": "https://mail.google.com/mail/ca/u/0/#apps/{q}",
+      "Enabled": true
+    }
   ],
   "EnableWebSearchSuggestion": false,
   "WebSearchSuggestionSource": "Google"
