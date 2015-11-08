@@ -34,7 +34,14 @@
       "IconPath": "Images\\websearch\\twitter.png",
       "Url": "http://twitter.com/search?q={q}",
       "Enabled": true
-    }
+    },
+    {
+      "Title": "google maps",
+      "ActionWord": "maps",
+      "IconPath": "Images\\websearch\\google_maps.png",
+      "Url": "http://maps.google.com/maps?q={q}",
+      "Enabled": true
+    }    
   ],
   "EnableWebSearchSuggestion": false,
   "WebSearchSuggestionSource": "Google"
