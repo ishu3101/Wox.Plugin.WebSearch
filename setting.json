@@ -83,6 +83,20 @@
       "IconPath": "Images\\websearch\\google_drive.png",
       "Url": "http://drive.google.com/?hl=en&tab=bo#search/{q}",
       "Enabled": true
+    },
+    {
+      "Title": "wolframalpha",
+      "ActionWord": "wolframalpha",
+      "IconPath": "Images\\websearch\\wolframalpha.png",
+      "Url": "http://www.wolframalpha.com/input/?i={q}",
+      "Enabled": true
+    },
+    {
+      "Title": "stackoverflow",
+      "ActionWord": "stackoverflow",
+      "IconPath": "Images\\websearch\\stackoverflow.png",
+      "Url": "http://stackoverflow.com/search?q={q}",
+      "Enabled": true
     }
   ],
   "EnableWebSearchSuggestion": true,
