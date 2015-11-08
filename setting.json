@@ -48,7 +48,14 @@
       "IconPath": "Images\\websearch\\google_translate.png",
       "Url": "http://translate.google.com/#auto|en|{q}",
       "Enabled": true
-    }
+    },
+    {
+      "Title": "duckduckgo",
+      "ActionWord": "duckduckgo",
+      "IconPath": "Images\\websearch\\duckduckgo.png",
+      "Url": "https://duckduckgo.com/?q={q}",
+      "Enabled": true
+    }    
   ],
   "EnableWebSearchSuggestion": false,
   "WebSearchSuggestionSource": "Google"
