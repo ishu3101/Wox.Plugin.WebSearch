@@ -76,6 +76,13 @@
       "IconPath": "Images\\websearch\\gmail.png",
       "Url": "https://mail.google.com/mail/ca/u/0/#apps/{q}",
       "Enabled": true
+    },
+    {
+      "Title": "google drive",
+      "ActionWord": "drive",
+      "IconPath": "Images\\websearch\\google_drive.png",
+      "Url": "http://drive.google.com/?hl=en&tab=bo#search/{q}",
+      "Enabled": true
     }
   ],
   "EnableWebSearchSuggestion": false,
