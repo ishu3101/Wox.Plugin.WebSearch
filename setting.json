@@ -41,7 +41,14 @@
       "IconPath": "Images\\websearch\\google_maps.png",
       "Url": "http://maps.google.com/maps?q={q}",
       "Enabled": true
-    }    
+    },
+    {
+      "Title": "google translate",
+      "ActionWord": "translate",
+      "IconPath": "Images\\websearch\\google_translate.png",
+      "Url": "http://translate.google.com/#auto|en|{q}",
+      "Enabled": true
+    }
   ],
   "EnableWebSearchSuggestion": false,
   "WebSearchSuggestionSource": "Google"
