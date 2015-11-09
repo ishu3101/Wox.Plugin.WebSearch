@@ -111,6 +111,13 @@
       "IconPath": "Images\\websearch\\google.png",
       "Url": "https://www.google.com/search?q={q}&tbm=isch",
       "Enabled": true
+    },
+    {
+      "Title": "youtube",
+      "ActionWord": "youtube",
+      "IconPath": "Images\\websearch\\youtube.png",
+      "Url": "http://www.youtube.com/results?search_query={q}",
+      "Enabled": true
     }
   ],
   "EnableWebSearchSuggestion": true,
