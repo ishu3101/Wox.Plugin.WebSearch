@@ -97,6 +97,13 @@
       "IconPath": "Images\\websearch\\stackoverflow.png",
       "Url": "http://stackoverflow.com/search?q={q}",
       "Enabled": true
+    },
+    {
+      "Title": "I'm Feeling Lucky",
+      "ActionWord": "lucky",
+      "IconPath": "Images\\websearch\\google.png",
+      "Url": "http://google.com/search?q={q}&btnI=I",
+      "Enabled": true
     }
   ],
   "EnableWebSearchSuggestion": true,
