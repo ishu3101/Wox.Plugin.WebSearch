@@ -55,7 +55,7 @@
       "IconPath": "Images\\websearch\\duckduckgo.png",
       "Url": "https://duckduckgo.com/?q={q}",
       "Enabled": true
-    },    
+    },
     {
       "Title": "github",
       "ActionWord": "github",
@@ -103,6 +103,13 @@
       "ActionWord": "lucky",
       "IconPath": "Images\\websearch\\google.png",
       "Url": "http://google.com/search?q={q}&btnI=I",
+      "Enabled": true
+    },
+    {
+      "Title": "google image",
+      "ActionWord": "image",
+      "IconPath": "Images\\websearch\\google.png",
+      "Url": "https://www.google.com/search?q={q}&tbm=isch",
       "Enabled": true
     }
   ],
