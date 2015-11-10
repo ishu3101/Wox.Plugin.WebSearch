@@ -118,6 +118,13 @@
       "IconPath": "Images\\websearch\\youtube.png",
       "Url": "http://www.youtube.com/results?search_query={q}",
       "Enabled": true
+    },
+    {
+      "Title": "Bing",
+      "ActionWord": "bing",
+      "IconPath": "Images\\websearch\\bing.png",
+      "URL": "https://www.bing.com/search?q={q}",
+      "Enabled": true
     }
   ],
   "EnableWebSearchSuggestion": true,
